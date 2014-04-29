@@ -5,9 +5,9 @@ title: SIBGRAPI 2014 - Tutorials
 
 ##Visual Computing and Machine Learning Techniques for Digital Forensics
 
--[Tiago Carvalho](http://www.ic.unicamp.br/~tjose/), (Unicamp, Campinas - Brazil)
--[Hélio Pedrini](http://www.ic.unicamp.br/~helio/), (Unicamp, Campinas - Brazil)
--[Anderson Rocha](http://www.ic.unicamp.br/~rocha/), (Unicamp, Campinas - Brazil)
+- [Tiago Carvalho](http://www.ic.unicamp.br/~tjose/), (Unicamp, Campinas - Brazil)
+- [Hélio Pedrini](http://www.ic.unicamp.br/~helio/), (Unicamp, Campinas - Brazil)
+- [Anderson Rocha](http://www.ic.unicamp.br/~rocha/), (Unicamp, Campinas - Brazil)
 
 Tutorial Level: intermediate.
 Estimated Time: 3 hours.
@@ -27,7 +27,7 @@ Estimated Time: 3 hours.
 
 ##SciPy and OpenCV as an interactive computing environment for computer vision
 
--[Thiago T. Santos](http://www.cnptia.embrapa.br/~thiago/stories/), (Embrapa Agricultural Informatics - Campinas SP)
+- [Thiago T. Santos](http://www.cnptia.embrapa.br/~thiago/stories/), (Embrapa Agricultural Informatics - Campinas SP)
 
 Tutorial Level: intermediate.
 Estimated Time: 6 hours.
@@ -37,7 +37,7 @@ Estimated Time: 6 hours.
 
 ##Developing Mobile Multimedia Apps, Botanic: A Case Study
 
--[Luiz Velho](http://lvelho.impa.br/), (VISGRAF/IMPA, Rio de Janeiro, Brazil)
+- [Luiz Velho](http://lvelho.impa.br/), (VISGRAF/IMPA, Rio de Janeiro, Brazil)
 
 Tutorial Level: intermediate.
 Estimated Time: 3 hours.
@@ -47,8 +47,8 @@ Estimated Time: 3 hours.
 
 ##Graphics for 3D Printing
 
--[Karina Rodriguez Echavarria](http://culturalinformatics.org.uk/whoweare#karina), (University of Brighton, Brighton, UK) 
--[Asla Medeiros e Sá](http://emap.fgv.br/people/asla.sa.html), (FGV/EMAp, Rio de Janeiro, Brazil)
+- [Karina Rodriguez Echavarria](http://culturalinformatics.org.uk/whoweare#karina), (University of Brighton, Brighton, UK) 
+- [Asla Medeiros e Sá](http://emap.fgv.br/people/asla.sa.html), (FGV/EMAp, Rio de Janeiro, Brazil)
 
 Tutorial Level: intermediate.
 Estimated Time: 3 hours.

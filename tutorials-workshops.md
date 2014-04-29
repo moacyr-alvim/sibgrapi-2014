@@ -18,6 +18,6 @@ title: Tutorials and Workshops
 
 ##Regular Workshops
 
--[WTD - Workshop of Theses and Dissertations](call-for-WTD.html)
--WIP - Workshop of Work in Progress
--[WUW - Workshop of Undergraduate Work](call-for-WUW.html) 
+- [WTD - Workshop of Theses and Dissertations](call-for-WTD.html)
+- WIP - Workshop of Work in Progress
+- [WUW - Workshop of Undergraduate Work](call-for-WUW.html) 
