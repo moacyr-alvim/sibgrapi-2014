@@ -27,7 +27,8 @@ A number of awards for the best Ph.D. and M.Sc. works will be given based on the
 
 ###Instruction to the authors
 
-Submissions related to M.Sc. work may be written in Portuguese or English, using the IEEE Latex file format. However, we strongly recommend paper submission in English. Submissions related to Ph.D. work must be written in English using the IEEE Latex file format (the template will be available soon). The text should follow the SIBGRAPI formatting guidelines, but with the following adjustments:
+Submissions related to M.Sc. work may be written in Portuguese or English, using the SIBGRAPI IEEE LaTeX style available here: [zip package](/files/2014-sibgrapi-latex-template.zip).
+ However, we strongly recommend paper submission in English. Submissions related to Ph.D. work must be written in English using the IEEE Latex file format (the template will be available soon). The text should follow the SIBGRAPI formatting guidelines, but with the following adjustments:
 - The names of the authors should not be omitted, disregarding the requirement of anonymity for the articles. In particular, students must appear as the first author and the advisor as the last author, with eventual co-advisors and other collaborators in the middle.
 - Texts in Portuguese (only M.Sc.work) should include, besides the abstract in Portuguese, also an abstract in English.
 - The articles are limited to 6 – double-column pages.
